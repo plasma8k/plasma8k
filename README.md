@@ -1,9 +1,14 @@
 - me be plasma
 - O_o
 - learning the C# - C++
-- hi
-- u get somewhere when u see the somewhere
-- when the at UnhollowerBaseLib.Il2CppException.RaiseExceptionIfNecessary go cray!!
+------------------------------
+#include <iostream>
+ 
+int main() 
+{
+  std::cout << "Hello World ";
+  return 0;
+}
 
-
-9th line of words moment
+------------------------------
+14th line of words moment
